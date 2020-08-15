@@ -1,3 +1,7 @@
+// Author: Abdus Salam Zaigirdar
+// E-mail: riyadzaigir280@gmail.com
+// Phone: 01754130251
+
 const array = [1, [2, [3, [4, [5, 6]]]]];
 
 console.log(getLength(array));
