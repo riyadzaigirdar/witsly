@@ -74,6 +74,11 @@
   cursor: pointer;
 }
 
+.num:hover {
+  background-image: none !important;
+  background-color: red !important;
+}
+
 .relative {
   position: relative;
 }
